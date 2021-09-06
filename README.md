@@ -1,4 +1,4 @@
-# Summer of Tech Create Camp 2021 & ANZ - Wellingon
+# Summer of Tech Create Camp 2021 & ANZ - Wellington
 
 The theme for our web-app was regarding young adults and how they might be encouraged to save for their first home. During a whole weekend we worked on solving the problem of stigma around purchasing first homes as a young adult. Our implementation works to help young adults to visualise their saving projections showing future first homes from a TradeMe API that align with their saving projections. The idea was that the saving projects could be manipulated by user interface controls to show that small changes can have big impacts in the future and that dream first homes are, in fact, achievable with good financial choices.
 <br />
